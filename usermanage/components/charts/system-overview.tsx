@@ -14,7 +14,7 @@ import {
   Cell,
   RadialBarChart,
   RadialBar,
-} from "@components/charts"
+} from "@src/components/charts/recharts"
 import { Card, CardContent, CardHeader, CardTitle } from "@/src/components/ui/Card"
 import { mockAPI } from "@/lib/mock-api"
 import { Skeleton } from "@/components/UI/skeleton"
